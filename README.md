@@ -3,14 +3,14 @@
 Este projeto foi desenvolvido como parte do **Desafio HC Challenge** da **FIAP**. O objetivo é fornecer uma solução eficiente para o gerenciamento de dados e pontuações de sessões de treinamento médico, focado em estudantes, residentes, médicos e professores.
 
 ## 📋 Sumário
-- [💡 Introdução](#💡-introdução)
-- [✨ Funcionalidades](#✨-funcionalidades)
-- [🛠️ Arquitetura](#🛠️-arquitetura)
-- [🗄️ Banco de Dados](#🗄️-banco-de-dados)
-- [🔍 Técnicas Utilizadas](#🔍-técnicas-utilizadas)
-- [📊 Relatório de Performance](#📊-relatório-de-performance)
-- [⚙️ Como Executar](#⚙️-como-executar)
-- [👥 Contribuidores](#👥-contribuidores)
+- [💡 Introdução]
+- [✨ Funcionalidades]
+- [🛠️ Arquitetura]
+- [🗄️ Banco de Dados]
+- [🔍 Técnicas Utilizadas]
+- [📊 Relatório de Performance]
+- [⚙️ Como Executar]
+- [👥 Contribuidores]
 
 ## 💡 Introdução
 Este sistema gerencia dados de sessões de treinamento utilizando estruturas de dados eficientes como busca binária e árvores binárias. O objetivo é garantir um desempenho otimizado ao processar grandes volumes de dados, facilitando a análise e a avaliação de habilidades dos usuários em exercícios médicos, como em treinamento para laparoscopia.
