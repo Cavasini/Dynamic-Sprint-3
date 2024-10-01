@@ -46,6 +46,14 @@ O sistema utiliza um banco de dados relacional com as seguintes entidades princi
 O sistema gera relatórios com base no número de passos realizados nas operações de busca, o que auxilia na análise de eficiência e identificação de possíveis gargalos de performance. Esses dados podem ser utilizados para otimizar o balanceamento de árvores ou reordenar listas.
 
 ## ⚙️ Como Executar
-1. Clone este repositório.
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Clone este repositório.
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+## 👥 Contribuidores
+- Enzo Shiotuqui
+- Emanuelle Soares
+- Julia Amorim
+- Matheus Cavasini Lopes
+
+
